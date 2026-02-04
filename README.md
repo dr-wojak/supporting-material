@@ -23,7 +23,7 @@ Supporting-Material/
 ├── 02_Correspondence/
 │   ├── Formal Request for Oversight Review - Cathaoirleach of Seanad Éireann.pdf
 │   ├── summary-of-enquiry-with-the-tanaiste-2024.pdf
-│   ├── Follow-Up on Acknowledged Correspondence... (Tanaiste).pdf
+│   ├── Follow-Up on Acknowledged Correspondence and Unacknowledged Recent Submissions (Tanaiste).pdf
 │   ├── harris-martin-chambers.pdf
 │   ├── The Community Call.pdf
 │   └── abridged-summary-systemic-failure.pdf
@@ -46,7 +46,7 @@ Supporting-Material/
 └── 05_Multilingual_Records_and_Reference_Material/
 │   ├── Preasráiteas Meinhardt Treascairt i mBainistíocht Phoiblí.pdf
 │   ├── COMHDHLÚTHÚ TAIFID_ Tuarascáil Fhoirmiúil ar Theip Rialachais.pdf
-│   ├── Mainneachtain Rialachais agus Riosca Poiblí...translation.pdf
+│   ├── Mainneachtain Rialachais agus Riosca Poiblí -ES-8min-english-translation.pdf
 │   ├── conspectus-2012-pages-37-40.pdf
 │   └── conspectus-2012-page-9.pdf
 │
