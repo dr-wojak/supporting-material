@@ -2,6 +2,55 @@
 
 Evidence regarding the systemic neglect of Operations Research (O.R.) in Irish Public Administration (2006–2025). The following index maps the specific evidentiary documents found within the public directory to their functional roles in the claim against the Irish State. The links provided lead directly to the specific files for immediate verification.
 
+## Directory Structure
+
+```text
+Supporting-Material/
+│
+├── README.md
+├── LICENSE (CC0 1.0 Universal)
+│
+├── 01_Executive_Briefings_and_Core_Theses/
+│   ├── On the Absence of an Operational Framework in Government.pdf
+│   ├── Briefing Document on Irish Governance Failure and Operations Research Neglect.pdf
+│   ├── misgovernance-technical-brief.pdf
+│   ├── systemic-misgovernance-technical-brief.pdf
+│   ├── OR Governance : Ethical Review.pdf
+│   └── Cybernetics for Good - Reclaiming Research from Corporate Extraction.pdf
+│
+├── 02_Formal_Complaints_and_Correspondence/
+│   ├── Formal Request for Oversight Review - Cathaoirleach of Seanad Éireann.pdf
+│   ├── summary-of-enquiry-with-the-tanaiste-2024.pdf
+│   ├── Follow-Up on Acknowledged Correspondence... (Tanaiste).pdf
+│   ├── harris-martin-chambers.pdf
+│   ├── The Community Call.pdf
+│   └── abridged-summary-systemic-failure.pdf
+│
+├── 03_Legal_Moral_and_Fiduciary_Analysis/
+│   ├── facilitating-legal-review.pdf
+│   ├── government-neglect-fiduciary-failure-brief.pdf
+│   ├── On the Moral Mandate of Institutional Actors.pdf
+│   ├── Ecumenical Problem Applied to the Misgovernance Map -adjusted.pdf
+│   └── addendum3.pdf
+│
+├── 04_Technical_Models_and_Visual_Evidence/
+│   ├── OR-governance-cohomology-EN.png
+│   ├── OR-governance-cohomology-Ireland.png
+│   ├── OR-governance-cohomology-FR.png
+│   ├── OR-governance-cohomology-Ireland-GA.png
+│   ├── or-ecrm-2-preamble-rubric-v1-7b.pdf
+│   ├── Foundations of Operational Governance Thought -flashcard.png
+│   ├── or-domain-chart.png
+│   ├── or-graph-v2.jpeg
+│   └── misgoverance-map-of-the-tanaiste-2025.png
+│
+└── 05_Multilingual_Records_and_Reference_Material/
+    ├── Preasráiteas Meinhardt Treascairt i mBainistíocht Phoiblí.pdf
+    ├── COMHDHLÚTHÚ TAIFID_ Tuarascáil Fhoirmiúil ar Theip Rialachais.pdf
+    ├── Mainneachtain Rialachais agus Riosca Poiblí...translation.pdf
+    ├── conspectus-2012-pages-37-40.pdf
+    └── conspectus-2012-page-9.pdf
+```
 
 ## I. Executive Briefings and Core Theses
 
