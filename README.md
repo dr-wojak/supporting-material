@@ -32,9 +32,9 @@ Supporting-Material/
 │   ├── facilitating-legal-review.pdf
 │   ├── government-neglect-fiduciary-failure-brief.pdf
 │   ├── On the Moral Mandate of Institutional Actors.pdf
+│   ├── misgoverance-map-of-the-tanaiste-2025.png
 │   ├── Ecumenical Problem Applied to the Misgovernance Map -adjusted.pdf
-│   ├── addendum3.pdf
-│   └── misgoverance-map-of-the-tanaiste-2025.png
+│   └── addendum3.pdf
 │
 ├── 04_Technical_Models_and_Visual_Evidence/
 │   ├── or-ecrm-2-preamble-rubric-v1-7b.pdf
@@ -85,9 +85,9 @@ Theoretical frameworks applied to the governance failure, framing the neglect as
 * **[facilitating-legal-review.pdf](https://drive.google.com/file/d/1-1lDPOUOdATm--yW9oCfbDZLkijUgpAI)**: Argues that deliberate inaction constitutes a legal crisis necessitating a writ of mandamus to enforce recognized obligations.
 * **[government-neglect-fiduciary-failure-brief.pdf](https://drive.google.com/file/d/1YmEpQ7yEptDnOJTT17SDJ0Q4csuWIMp3)**: Frames the mishandling of O.R. research as a betrayal of public trust, drawing parallels to fiduciary models of data privacy.
 * **[On the Moral Mandate of Institutional Actors.pdf](https://drive.google.com/file/d/1D-teyy8jG6qk58jY3QuEYB4CJ6N8JWaK)**: A memorandum focusing on the ethical derelictions of public servants who defer engagement without substantive rationale.
+* **[misgoverance-map-of-the-tanaiste-2025.png](https://drive.google.com/file/d/1vbsBxADAOJi-p71M2fd1hqqi_x1nYAaz)**: A systemic interpretation of "role paralysis" and "suppressed correction".
 * **[Ecumenical Problem Applied to the Misgovernance Map -adjusted.pdf](https://drive.google.com/file/d/19T-gk-dcb6rkKI6OBLEe_tWKvP-b0pho)**: An interpretive reading of institutional paralysis, describing it as "defensive routine" where signals are absorbed without altering behavior.
 * **[addendum3.pdf](https://drive.google.com/file/d/1rifjipfCjbRy_LWTMY8XxHdkONwcEvQF)**: Details the specific legislative mandates (e.g., Ministers and Secretaries Act 1924, EU Regulation 428/2009) that the State is alleged to have breached.
-* **[misgoverance-map-of-the-tanaiste-2025.png](https://drive.google.com/file/d/1vbsBxADAOJi-p71M2fd1hqqi_x1nYAaz)**: A systemic interpretation of "role paralysis" and "suppressed correction".
 
 
 ## IV. Technical Models and Visual Evidence (ECRM)
