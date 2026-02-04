@@ -15,6 +15,9 @@ Supporting-Material/
 │   ├── misgovernance-technical-brief.pdf
 │   ├── systemic-misgovernance-technical-brief.pdf
 │   ├── OR Governance : Ethical Review.pdf
+│   ├── Foundations of Operational Governance Thought -flashcard.png
+│   ├── or-domain-chart.png
+│   ├── or-graph-v2.jpeg
 │   └── Cybernetics for Good - Reclaiming Research from Corporate Extraction.pdf
 │
 ├── 02_Correspondence/
@@ -30,18 +33,15 @@ Supporting-Material/
 │   ├── government-neglect-fiduciary-failure-brief.pdf
 │   ├── On the Moral Mandate of Institutional Actors.pdf
 │   ├── Ecumenical Problem Applied to the Misgovernance Map -adjusted.pdf
-│   └── addendum3.pdf
+│   ├── addendum3.pdf
+│   └── misgoverance-map-of-the-tanaiste-2025.png
 │
 ├── 04_Technical_Models_and_Visual_Evidence/
+│   ├── or-ecrm-2-preamble-rubric-v1-7b.pdf
 │   ├── OR-governance-cohomology-EN.png
 │   ├── OR-governance-cohomology-Ireland.png
 │   ├── OR-governance-cohomology-FR.png
-│   ├── OR-governance-cohomology-Ireland-GA.png
-│   ├── or-ecrm-2-preamble-rubric-v1-7b.pdf
-│   ├── Foundations of Operational Governance Thought -flashcard.png
-│   ├── or-domain-chart.png
-│   ├── or-graph-v2.jpeg
-│   └── misgoverance-map-of-the-tanaiste-2025.png
+│   └── OR-governance-cohomology-Ireland-GA.png
 │
 └── 05_Multilingual_Records_and_Reference_Material/
 │   ├── Preasráiteas Meinhardt Treascairt i mBainistíocht Phoiblí.pdf
@@ -61,7 +61,11 @@ These documents establish the technical, legal, and ethical foundations of the c
 * **[Briefing Document on Irish Governance Failure and Operations Research Neglect.pdf](https://drive.google.com/file/d/1ujfEw7avWJ0MgDqXeHX9GZfr9aRQHL1n)**: Outlines a formal complaint regarding the State's deliberate or negligent refusal to implement O.R., naming key figures such as Deputy Simon Harris and Deputy Micheál Martin.
 * **[misgovernance-technical-brief.pdf](https://drive.google.com/file/d/1_nsHbOAZ1GYSWKsJgZjEck6v28krC8IU)**: Prepared for European oversight bodies, these briefs highlight the omission of O.R. as a critical "dual-use" scientific discipline and detail breaches of EU treaty obligations.
 * **[OR Governance : Ethical Review.pdf](https://drive.google.com/file/d/185vB3GzZwz53ZWvWS8q8G_3w32dUG3Ln)**: A synthesis of the technical and ethical analyses, diagnosing the State as "procedurally active but operationally blind".
+* **[Foundations of Operational Governance Thought -flashcard.png](https://drive.google.com/file/d/1vISZgHSqVQKiEv2_llZhNnz909KAowJF)**: Maps the contributions of historical thinkers (Euler, Bayes, Ampère) to O.R. capabilities.
+* **[or-domain-chart.png](https://drive.google.com/file/d/1XWQpZfse6YCWiu8fEurVCVB6570xr_bz)**: A mapping of Operations Research domains, from Game Theory to Supply Chain Management.
+* **[or-graph-v2.jpeg](https://drive.google.com/file/d/1teBxGntBebX6SBcAmtK6Flueiz16tK1j)**: A timeline of cybernetics and information theory from 1868 to 1968.
 * **[Cybernetics for Good - Reclaiming Research from Corporate Extraction.pdf](https://drive.google.com/file/d/14NnAQS3s9loM9TGxTSyf5e6X8AJUBmWc)**: Explores the bifurcation of O.R. between corporate profit-maximization and the neglected public governance sector.
+
 
 ## II. Correspondence (Evidentiary Record)
 
@@ -83,10 +87,14 @@ Theoretical frameworks applied to the governance failure, framing the neglect as
 * **[On the Moral Mandate of Institutional Actors.pdf](https://drive.google.com/file/d/1D-teyy8jG6qk58jY3QuEYB4CJ6N8JWaK)**: A memorandum focusing on the ethical derelictions of public servants who defer engagement without substantive rationale.
 * **[Ecumenical Problem Applied to the Misgovernance Map -adjusted.pdf](https://drive.google.com/file/d/19T-gk-dcb6rkKI6OBLEe_tWKvP-b0pho)**: An interpretive reading of institutional paralysis, describing it as "defensive routine" where signals are absorbed without altering behavior.
 * **[addendum3.pdf](https://drive.google.com/file/d/1rifjipfCjbRy_LWTMY8XxHdkONwcEvQF)**: Details the specific legislative mandates (e.g., Ministers and Secretaries Act 1924, EU Regulation 428/2009) that the State is alleged to have breached.
+* **[misgoverance-map-of-the-tanaiste-2025.png](https://drive.google.com/file/d/1vbsBxADAOJi-p71M2fd1hqqi_x1nYAaz)**: A systemic interpretation of "role paralysis" and "suppressed correction".
+
 
 ## IV. Technical Models and Visual Evidence (ECRM)
 
 Diagrams and charts illustrating the proposed Ethical Cohomology and Merit-Attribution Network (ECRM) and the historical context of O.R.
+
+* **[or-ecrm-2-preamble-rubric-v1-7b.pdf](https://drive.google.com/file/d/19GP80Pbst48xP2rg_ti93eZVXXhmV4Dd)**: Defines the "Codes" (rules) and "Flows" (actual power) within the ECRM scaffold.
 
 **ECRM Framework Diagrams**:
 * **[OR-governance-cohomology-EN.png](https://drive.google.com/file/d/1M_C8OcNJZ7ZaLsq3aM08Ca761xolFa_I)**: (English version).
@@ -94,12 +102,6 @@ Diagrams and charts illustrating the proposed Ethical Cohomology and Merit-Attri
 * **[OR-governance-cohomology-FR.png](https://drive.google.com/file/d/17jr6i9nTTGG6O_D1hB3-90wd4etl7Z2A)**: (Original French abstraction).
 * **[OR-governance-cohomology-Ireland-GA.png](https://drive.google.com/file/d/10n7tIMP9b51QdFwWguf-Yl8GV8d6qBb8)**: (Irish language version).  
 
-
-* **[or-ecrm-2-preamble-rubric-v1-7b.pdf](https://drive.google.com/file/d/19GP80Pbst48xP2rg_ti93eZVXXhmV4Dd)**: Defines the "Codes" (rules) and "Flows" (actual power) within the ECRM scaffold.
-* **[Foundations of Operational Governance Thought -flashcard.png](https://drive.google.com/file/d/1vISZgHSqVQKiEv2_llZhNnz909KAowJF)**: Maps the contributions of historical thinkers (Euler, Bayes, Ampère) to O.R. capabilities.
-* **[or-domain-chart.png](https://drive.google.com/file/d/1XWQpZfse6YCWiu8fEurVCVB6570xr_bz)**: A mapping of Operations Research domains, from Game Theory to Supply Chain Management.
-* **[or-graph-v2.jpeg](https://drive.google.com/file/d/1teBxGntBebX6SBcAmtK6Flueiz16tK1j)**: A timeline of cybernetics and information theory from 1868 to 1968.
-* **[misgoverance-map-of-the-tanaiste-2025.png](https://drive.google.com/file/d/1vbsBxADAOJi-p71M2fd1hqqi_x1nYAaz)**: A systemic interpretation of "role paralysis" and "suppressed correction".
 
 ## V. Multilingual Records and Reference Material
 
