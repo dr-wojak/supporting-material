@@ -8,7 +8,6 @@ Evidence regarding the systemic neglect of Operations Research (O.R.) in Irish P
 Supporting-Material/
 │
 ├── README.md
-├── LICENSE (CC0 1.0 Universal)
 │
 ├── 01_Executive_Briefings_and_Core_Theses/
 │   ├── On the Absence of an Operational Framework in Government.pdf
@@ -45,11 +44,13 @@ Supporting-Material/
 │   └── misgoverance-map-of-the-tanaiste-2025.png
 │
 └── 05_Multilingual_Records_and_Reference_Material/
-    ├── Preasráiteas Meinhardt Treascairt i mBainistíocht Phoiblí.pdf
-    ├── COMHDHLÚTHÚ TAIFID_ Tuarascáil Fhoirmiúil ar Theip Rialachais.pdf
-    ├── Mainneachtain Rialachais agus Riosca Poiblí...translation.pdf
-    ├── conspectus-2012-pages-37-40.pdf
-    └── conspectus-2012-page-9.pdf
+│   ├── Preasráiteas Meinhardt Treascairt i mBainistíocht Phoiblí.pdf
+│   ├── COMHDHLÚTHÚ TAIFID_ Tuarascáil Fhoirmiúil ar Theip Rialachais.pdf
+│   ├── Mainneachtain Rialachais agus Riosca Poiblí...translation.pdf
+│   ├── conspectus-2012-pages-37-40.pdf
+│   └── conspectus-2012-page-9.pdf
+│
+└── LICENSE (CC0 1.0 Universal)
 ```
 
 ## I. Executive Briefings and Core Theses
